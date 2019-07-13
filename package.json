@@ -1,0 +1,37 @@
+{
+  "name": "react-native-menu-list",
+  "version": "1.0.0",
+  "description": "react-native menun list modal, alternative to native picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmyrAhmady/react-native-menu-list.git"
+  },
+  "keywords": [
+    "menu",
+    "list",
+    "modal",
+    "overlay",
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "ios",
+    "select",
+    "picker",
+    "dropdown",
+    "popup"
+  ],
+  "author": "Amyr Ahmady (iAmir)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmyrAhmady/react-native-menu-list/issues"
+  },
+  "homepage": "https://github.com/AmyrAhmady/react-native-menu-list#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
