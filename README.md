@@ -1,6 +1,9 @@
 # react-native-menu-list
 an alternative to react-native Picker component, cross-platform, iOS style menu for react-native.
 
+## Preview
+![ScreenShot](https://raw.githubusercontent.com/AmyrAhmady/react-native-menu-list/master/screenshot/example.gif)
+
 ## Properties
 | Prop                  | Optional | Default              | Description                                                 |  |
 |-----------------------|----------|----------------------|-------------------------------------------------------------|--|
