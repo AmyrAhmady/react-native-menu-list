@@ -4,6 +4,11 @@ an alternative to react-native Picker component, cross-platform, iOS style menu 
 ## Preview
 ![ScreenShot](https://raw.githubusercontent.com/AmyrAhmady/react-native-menu-list/master/screenshot/example.gif)
 
+## Installation
+```
+npm install --save react-native-menu-list
+```
+
 ## Properties
 | Prop                  | Optional | Default              | Description                                                 |  |
 |-----------------------|----------|----------------------|-------------------------------------------------------------|--|
